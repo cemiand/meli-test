@@ -1,0 +1,13 @@
+.BreadCrumbs {
+  display: flex;
+  width: 70%;
+  margin: 0 auto;
+  height: 60px;
+  align-items: center;
+  color: #666;
+}
+
+.separator {
+  margin-left: 5px;
+  margin-right: 5px;
+}

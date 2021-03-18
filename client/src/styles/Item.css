@@ -1,0 +1,62 @@
+.itemContainer {
+  border: 1px solid #dddbdb;
+  border-radius: 4px;
+  overflow: hidden;
+  background-color: white;
+}
+
+.item {
+  display: flex;
+  width: 100%;
+  padding: 16px;
+}
+
+.itemImgLink {
+  width: 180px;
+  height: 180px;
+  border-radius: 4px;
+  margin: 16px;
+}
+
+.itemImg {
+  width: 180px;
+  height: 180px;
+}
+
+.content {
+  padding-top: 30px;
+  width: 50%;
+}
+
+.spanPrice {
+  font-size: 24px;
+  font-weight: normal;
+  display: inline-block;
+  height: 25px;
+  vertical-align: middle;
+}
+
+.shippingLogo {
+  margin-left: 7px;
+  display: inline-block;
+}
+
+.content p {
+  margin-top: 32px;
+  font-size: 18px;
+}
+
+.address {
+  display: flex;
+  font-size: 12px;
+  justify-content: left;
+  margin-left: auto;
+  padding-top: 30px;
+  width: 20%;
+  color: #666;
+}
+
+.bigContainer {
+  background-color: #eeeeee;
+  padding-bottom: 40px;
+}
